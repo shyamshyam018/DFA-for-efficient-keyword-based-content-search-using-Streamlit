@@ -12,7 +12,7 @@ content_repository = [
     {"title": "Depth First Search (DFS) and Breadth First Search (BFS)", "image": "https://miro.medium.com/v2/resize:fit:1280/1*GT9oSo0agIeIj6nTg3jFEA.gif"},
     {"title": "HashMap Implementation in Java", "image": "https://miro.medium.com/v2/resize:fit:800/1*5n4jECfFKDqv_3Eb7yQUoA.gif"},
     {"title": "Recursion and the Function Call Stack", "image": "https://content.codecademy.com/practice/art-for-practice/stackcall.gif"},
-    {"title": "How Stack Overflow Happens in Recursion", "image": "https://media.lordicon.com/icons/wired/lineal/2567-logo-stack-overflow.gif"},
+    {"title": "How Stack Overflow Happens in Recursion", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtsejcRGHC4atyfcwXFxYHW6seSn0B7hKvw&s"},
     {"title": "Greedy Algorithms vs Dynamic Programming", "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greedy-search-path-example.gif"},
     {"title": "Basics of Object-Oriented Programming", "image": "https://www.shutterstock.com/image-vector/oop-object-oriented-programming-acronym-260nw-2029215269.jpg"}
 ]
